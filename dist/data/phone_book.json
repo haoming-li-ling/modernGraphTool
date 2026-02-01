@@ -1,114 +1,595 @@
 [
   {
-    "name": "Demo",
+    "name": "7hz",
     "phones": [
-        {"name":["Variations"],
-         "file":["Combo Variant 1",
-                 "Combo Variant 2",
-                 "Combo Variant 3",
-                 "Combo Variant 4"],
-         "suffix":["var1",
-                   "var2",
-                   "var3",
-                   "var4"],
-         "reviewScore":"4",
-         "reviewLink":"https://www.youtube.com/",
-         "shopLink":"https://www.amazon.com/",
-         "price":"¥100"
-        },
-        {"name":["Variations 2"],
-         "file":["Combo Variant (A)",
-                 "Combo Variant (B)",
-                 "Combo Variant (C)",
-                 "Combo Variant (D)"],
-         "suffix":["(A)",
-                   "(B)",
-                   "(C)",
-                   "(D)"],
-         "reviewScore":"A+",
-         "reviewLink":"https://www.head-fi.org/forums/",
-         "shopLink":"https://www.aliexpress.com/",
-         "price":"$100"
-        },
-        {"name":["Variation Single"],
-         "file":["Combo Variant (A)"],
-         "suffix":["(A)"],
-         "reviewScore":"A+",
-         "reviewLink":"https://www.head-fi.org/forums/",
-         "shopLink":"https://www.aliexpress.com/",
-         "price":"$100"
-        }
+      {
+        "name": "Zero:2",
+        "collab": "Crinacle",
+        "file": ["Zero 2 (Stock M)"],
+        "suffix": ["(Stock M)"]
+      }
     ]
   },
   {
-    "name":   "QBK",
-    "phones": [ "FQQ"
-              , "Q53"
-              , "KT"
-              , "B27"
-              , "BKF"
-              , "H2"
-              , "HH"
-              , "E05"
-              , "QK9" ]
-  }, {
-    "name":   "ZKZ",
-    "suffix": "Sound",
-    "phones": [ "H4"
-              , "HHH"
-              , "KTK"
-              , {"name":"E10 Universal","file":"E10"}
-              , "EFZ9"
-              , {"name":"THT02 Extreme","file":"THT02"}
-              , "ZK"
-              , "E40" ]
-  }, {
-    "name":   "RBG",
-    "suffix": "(Not an acronym)",
-    "phones": [ "B9"
-              , "BE0" ]
-  }, {
-    "name":   "KQQ",
-    "phones": [ "QE"
-              , "K"
-              , "H"
-              , "QH19"
-              , {"name":"T4 Reference","file":"T4"} ]
-  }, {
-    "name":   "KRKG",
-    "suffix": "Ears",
-    "phones": [ "E5"
-              , "KK16"
-              , {"name":"RG Pro Edition","file":"RG"}
-              , "T0"
-              , "KH"
-              , "K5" ]
-  }, {
-    "name":   "CQ",
-    "phones": [ "TC4"
-              , "Q2"
-              , {"name":"CE Reference","file":"CE"}
-              , {"name":"E04 Enhanced Bass","file":"E04"}
-              , "T"
-              , {"name":"TE66 Deluxe","file":"TE66"}
-              , "QHC" ]
-  }, {
-    "name":   "GG",
-    "suffix": "Hi-fi",
-    "phones": [ "T92"
-              , {"name":"H0 Pro","file":"H0"}
-              , "TG"
-              , "GGE"
-              , "HG7" ]
-  }, {
-    "name":   "GZR",
-    "phones": [ {"name":"GRR Light","file":"GRR"}
-              , "F0"
-              , "HR"
-              , "HRH"
-              , {"name":"HTH Performance","file":"HTH"}
-              , "Z"
-              , "HTH67"
-              , "HT5" ]
+    "name": "AKG",
+    "phones": [
+      {
+        "name": "N5005",
+        "file": [
+          "N5005 (Bass, Azla Foamax)",
+          "N5005 (Reference, Azla Foamax)",
+          "N5005 (Mid-high, Azla Foamax)",
+          "N5005 (Reference, Foam)",
+          "N5005 (Reference, H570 M)",
+          "N5005 (Reference, Stock M)"
+        ],
+        "suffix": [
+          "(Bass, Azla Foamax)",
+          "(Reference, Azla Foamax)",
+          "(Mid-high, Azla Foamax)",
+          "(Reference, Foam)",
+          "(Reference, H570 M)",
+          "(Reference, Stock M)"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Apple",
+    "phones": [
+      {
+        "name": "Airpods Pro 2",
+        "file": ["Airpods Pro 2 (Stock M)", "Airpods Pro 2 (Dekoni M)"],
+        "suffix": ["(Stock M)", "(Dekoni M)"]
+      }
+    ]
+  },
+  {
+    "name": "Artti",
+    "phones": [
+      {
+        "name": "T10",
+        "file": ["T10 (Stock M)"],
+        "suffix": ["(Stock M)"]
+      },
+      {
+        "name": "R6",
+        "file": [
+          "R6 (Azla Foamax M)",
+          "R6 (Stock M Shallow)",
+          "R6 (Stock M Deep)"
+        ],
+        "suffix": ["(Azla Foamax M)", "(Stock M Shallow)", "(Stock M Deep)"]
+      }
+    ]
+  },
+  {
+    "name": "Audeze",
+    "phones": [
+      {
+        "name": "iSine 10",
+        "file": ["iSine 10 (Stock M)"],
+        "suffix": ["(Stock M)"]
+      }
+    ]
+  },
+  {
+    "name": "Binary",
+    "suffix": "Acoustics",
+    "phones": [
+      {
+        "name": "Chopin",
+        "collab": "Gizaudio",
+        "file": [
+          "Chopin (Spiral Dots M)",
+          "Chopin (Stock M)",
+          "Chopin (Sancai M)",
+          "Chopin (Velvet M)",
+          "Chopin (Velvet Wide M)",
+          "Chopin (Foam)",
+          "Chopin (Spinfit M)"
+        ],
+        "suffix": [
+          "(Spiral Dots M)",
+          "(Stock M)",
+          "(Sancai M)",
+          "(Velvet M)",
+          "(Velvet Wide M)",
+          "(Foam)",
+          "(Spinfit M)"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CrinEar",
+    "phones": [
+      {
+        "name": "Project Meta",
+        "file": [
+          "Project Meta (Azla Foamax)",
+          "Project Meta (Flo Foam)",
+          "Project Meta (BGVP Foam)",
+          "Project Meta (Foam M)",
+          "Project Meta (Stock M)",
+          "Project Meta (Stock L Shall)",
+          "Project Meta (H570 M)",
+          "Project Meta (Spring L)",
+          "Project Meta (Final E M)"
+        ],
+        "suffix": [
+          "(Azla Foamax)",
+          "(Flo Foam)",
+          "(BGVP Foam)",
+          "(Foam M)",
+          "(Stock M)",
+          "(Stock L Shall)",
+          "(H570 M)",
+          "(Spring L)",
+          "(Final E M)"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dunu",
+    "phones": [
+      {
+        "name": "DaVinci",
+        "collab": "Gizaudio",
+        "file": [
+          "DaVinci (Candy M)",
+          "DaVinci (Stock M)",
+          "DaVinci (S&S L)",
+          "DaVinci (Velvet M)",
+          "DaVinci (Spring M)",
+          "DaVinci (Final E M)",
+          "DaVinci (Final E ML)",
+          "DaVinci (Velvet Wide M)",
+          "DaVinci (Tape, Velvet M)",
+          "DaVinci (Spring L)",
+          "DaVinci (Spiral Dots M)",
+          "DaVinci (Spinfit N5005 M)",
+          "DaVinci (Spinfit M)",
+          "DaVinci (H570 M)",
+          "DaVinci (Foam M)",
+          "DaVinci (Black N5005 M)",
+          "DaVinci (10ohm, Final E M)"
+        ],
+        "suffix": [
+          "(Candy M)",
+          "(Stock M)",
+          "(S&S L)",
+          "(Velvet M)",
+          "(Spring M)",
+          "(Final E M)",
+          "(Final E ML)",
+          "(Velvet Wide M)",
+          "(Tape, Velvet M)",
+          "(Spring L)",
+          "(Spiral Dots M)",
+          "(Spinfit N5005 M)",
+          "(Spinfit M)",
+          "(H570 M)",
+          "(Foam M)",
+          "(Black N5005 M)",
+          "(10ohm, Final E M)"
+        ],
+        "reviewScore": "",
+        "reviewLink": "",
+        "price": "",
+        "shopLink": ""
+      }
+    ]
+  },
+  {
+    "name": "Final",
+    "suffix": "Audio",
+    "phones": [
+      {
+        "name": "E500",
+        "file": ["E500 (Final E M)"]
+      }
+    ]
+  },
+  {
+    "name": "Floaudio",
+    "phones": [
+      {
+        "name": "Bluelover",
+        "file": [
+          "Bluelover (5ohm, Sancai)",
+          "Bluelover (5ohm, Foam)",
+          "Bluelover (5ohm Azla Foam)",
+          "Bluelover (5ohm, Final E M)",
+          "Bluelover (Beige Foam)",
+          "Bluelover (Stock M)",
+          "Bluelover (Stock Foam M)",
+          "Bluelover (BGVP Foam M)",
+          "Bluelover (Azla Foamax)",
+          "Bluelover (H570 M)",
+          "Bluelover (Spinfit W1 M)",
+          "Bluelover (Velvet M)",
+          "Bluelover (10ohm, Stock M)",
+          "Bluelover (10ohm, Stock M) S2",
+          "Bluelover (10ohm AVG, Stock M)"
+        ],
+        "suffix": [
+          "(5ohm, Sancai)",
+          "(5ohm, Foam)",
+          "(5ohm Azla Foam)",
+          "(5ohm, Final E M)",
+          "(Beige Foam)",
+          "(Stock M)",
+          "(Stock Foam M)",
+          "(BGVP Foam M)",
+          "(Azla Foamax)",
+          "(H570 M)",
+          "(Spinfit W1 M)",
+          "(Velvet M)",
+          "(10ohm, Stock M)",
+          "(10ohm, Stock M) S2",
+          "(10ohm AVG, Stock M)"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gizaudio",
+    "phones": []
+  },
+  {
+    "name": "Juzear",
+    "phones": [
+      {
+        "collab": "Z Review",
+        "name": "Defiant",
+        "file": [
+          "Defiant (Stock White M)",
+          "Defiant (Stock Gray M)",
+          "Defiant (Stock Foam)",
+          "Defiant (BGVP Foam)",
+          "Defiant (Velvet M)",
+          "Defiant (Velvet Wide M)",
+          "Defiant (Final E M)",
+          "Defiant (Flo Foam)"
+        ],
+        "suffix": [
+          "(Stock White M)",
+          "(Stock Gray M)",
+          "(Stock Foam)",
+          "(BGVP Foam)",
+          "(Velvet M)",
+          "(Velvet Wide M)",
+          "(Final E M)",
+          "(Flo Foam)"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kinera Celest",
+    "phones": [
+      {
+        "name": "Wyvern Qing",
+        "file": [
+          "Wyvern Qing (Stock M)",
+          "Wyvern Qing (Velvet M)",
+          "Wyvern Qing (Final E M)"
+        ],
+        "suffix": ["(Stock M)", "(Velvet M)", "(Final E M)"]
+      }
+    ]
+  },
+  {
+    "name": "KZ",
+    "phones": [
+      {
+        "name": "EDC Pro",
+        "file": ["EDC Pro (Stock M)", "EDC Pro (Stock Shallow)"],
+        "suffix": ["(Stock M)", "(Stock Shallow)"]
+      },
+      {
+        "name": "Castor Pro Bass",
+        "file": [
+          "Castor Pro Bass (UDDD Stock M)",
+          "Castor Pro Bass (UDDD Foam)",
+          "Castor Pro Bass (UDDD W1 M)",
+          "Castor Pro Bass (DDUD Mystori Stock Wide M)",
+          "Castor Pro Bass (DDUU Mystori Stock Wide M)",
+          "Castor Pro Bass (UDDD Mystori Stock Wide M)",
+          "Castor Pro Bass (UUDD Mystori Stock Wide M)",
+          "Castor Pro Bass (UUUU Mystori Stock Wide M)",
+          "Castor Pro Bass (UUUU Stock M)"
+        ],
+        "suffix": [
+          "(UDDD Stock M)",
+          "(UDDD Foam)",
+          "(UDDD W1 M)",
+          "(DDUD Mystori Stock Wide M)",
+          "(DDUU Mystori Stock Wide M)",
+          "(UDDD Mystori Stock Wide M)",
+          "(UUDD Mystori Stock Wide M)",
+          "(UUUU Mystori Stock Wide M)",
+          "(UUUU Stock M)"
+        ]
+      },
+      {
+        "name": "Zenith",
+        "file": [
+          "Zenith (Stock UUUD Shallow)",
+          "Zenith (Stock DDDD)",
+          "Zenith (Stock UDDD)",
+          "Zenith (Stock UUDD)",
+          "Zenith (Stock UUUD)",
+          "Zenith (Stock UUUU)"
+        ],
+        "suffix": [
+          "(Stock UUUD Shallow)",
+          "(Stock DDDD)",
+          "(Stock UDDD)",
+          "(Stock UUDD)",
+          "(Stock UUUD)",
+          "(Stock UUUU)"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Moondrop",
+    "phones": [
+      {
+        "name": "Blessing 2 Dusk",
+        "collab": "Crinacle",
+        "file": ["Blessing 2 Dusk (Stock M)"],
+        "suffix": ["(Stock M)"]
+      },
+      {
+        "name": "Quark 2",
+        "file": ["Quark 2 (Stock M)"],
+        "suffix": ["(Stock M)"]
+      },
+      {
+        "name": "Kato",
+        "file": ["Kato (Steel, Spring L)", "Kato (AET07 M)"],
+        "suffix": ["(Steel, Spring L)", "(AET07 M)"]
+      }
+    ]
+  },
+  {
+    "name": "Mystori",
+    "phones": [
+      {
+        "name": "M-121i",
+        "file": [
+          "M-121i (BGVP Foam M)",
+          "M-121i (Azla Foamax)",
+          "M-121i (Stock Wide M)",
+          "M-121i (Stock Narrow M)",
+          "M-121i (10ohm, BGVP Foam M)",
+          "M-121i (Spinfit W1 M)",
+          "M-121i (Spinfit W1 MS)",
+          "M-121i (Spiral Dots M)",
+          "M-121i (Velvet M)",
+          "M-121i (Velvet Wide M)",
+          "M-121i (H570 M)",
+          "M-121i (Final E M)",
+          "M-121i (Final E M Shallow)",
+          "M-121i (Beige Foam)",
+          "M-121i (Floaudio Foam)",
+          "M-121i (Official)",
+          "M-121i (Official, DD off, PL off)",
+          "M-121i (QQ Multiformous)",
+          "M-121i (Hu-Fi)"
+        ],
+        "suffix": [
+          "(BGVP Foam M)",
+          "(Azla Foamax)",
+          "(Stock Wide M)",
+          "(Stock Narrow M)",
+          "(10ohm, BGVP Foam M)",
+          "(Spinfit W1 M)",
+          "(Spinfit W1 MS)",
+          "(Spiral Dots M)",
+          "(Velvet M)",
+          "(Velvet Wide M)",
+          "(H570 M)",
+          "(Final E M)",
+          "(Final E M Shallow)",
+          "(Beige Foam)",
+          "(Floaudio Foam)",
+          "(Official)",
+          "(Official, DD off, PL off)",
+          "(QQ Multiformous)",
+          "(Hu-Fi)"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ND",
+    "phones": [
+      {
+        "name": "Planet",
+        "file": ["Planet (Stock M)"],
+        "suffix": ["(Stock M)"]
+      }
+    ]
+  },
+  {
+    "name": "Random",
+    "phones": [
+      {
+        "name": "DIY IEM",
+        "file": ["Random DIY IEM"],
+        "suffix": ["(Stock)"]
+      }
+    ]
+  },
+  {
+    "name": "Reecho",
+    "phones": [
+      {
+        "name": "Spring",
+        "file": ["Reecho Spring (Stock M)"],
+        "suffix": ["(Stock M)"]
+      }
+    ]
+  },
+  {
+    "name": "Simgot",
+    "phones": [
+      {
+        "name": "EA500 LM",
+        "file": [
+          "EA500LM (Stock M)",
+          "EA500LM (BGVP Foam M)",
+          "EA500LM (Final E M)"
+        ],
+        "suffix": ["(Stock M)", "(BGVP Foam M)", "(Final E M)"]
+      }
+    ]
+  },
+  {
+    "name": "Sony",
+    "phones": [
+      {
+        "name": "XBA-N3",
+        "file": [
+          "N3 (Stock M)",
+          "N3 (Final E M)",
+          "N3 (H570 M)",
+          "N3 (Velvet M)",
+          "N3 (Velvet Wide M)"
+        ],
+        "suffix": [
+          "(Stock M)",
+          "(Final E M)",
+          "(H570 M)",
+          "(Velvet M)",
+          "(Velvet Wide M)"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Softears",
+    "phones": [
+      {
+        "name": "Studio 4",
+        "file": [
+          "Studio 4 (Azla Foamax)",
+          "Studio 4 (Stock M)",
+          "Studio 4 (BGVP Foam M)",
+          "Studio 4 (Final E M)",
+          "Studio 4 (Spinfit MS)",
+          "Studio 4 (Spinfit M)",
+          "Studio 4 (H570 M)",
+          "Studio 4 (Sancai M)",
+          "Studio 4 (Spring L)",
+          "Studio 4 (Spring M)",
+          "Studio 4 (Velvet M)",
+          "Studio 4 (Velvet Wide M)",
+          "Studio 4 (S&S M)"
+        ],
+        "suffix": [
+          "(Azla Foamax)",
+          "(Stock M)",
+          "(BGVP Foam M)",
+          "(Final E M)",
+          "(Spinfit MS)",
+          "(Spinfit M)",
+          "(H570 M)",
+          "(Sancai M)",
+          "(Spring L)",
+          "(Spring M)",
+          "(Velvet M)",
+          "(Velvet Wide M)",
+          "(S&S M)"
+        ],
+        "reviewScore": "",
+        "reviewLink": "",
+        "price": "",
+        "shopLink": ""
+      }
+    ]
+  },
+  {
+    "name": "Truthear",
+    "phones": [
+      {
+        "name": "Gate",
+        "file": ["Gate (Stock M)", "Gate (Final E MS)"],
+        "suffix": ["(Stock M)", "(Final E MS)"]
+      },
+      {
+        "name": "Hexa",
+        "file": [
+          "Hexa (Velvet Wide M)",
+          "Hexa (Stock M)",
+          "Hexa (Black Foam)",
+          "Hexa (Beige Foam)"
+        ],
+        "suffix": [
+          "(Velvet Wide M)",
+          "(Stock M)",
+          "(Black Foam)",
+          "(Beige Foam)"
+        ]
+      },
+      {
+        "name": "Nova",
+        "file": ["Nova (Stock M)", "Nova (Foam)"],
+        "suffix": ["(Stock M)", "(Foam)"]
+      },
+      {
+        "name": "Zero:Red",
+        "collab": "Crinacle",
+        "file": [
+          "Zero Red (Velvet M)",
+          "Zero Red 10ohm (Velvet M)",
+          "Zero Red 10ohm (Spring L)",
+          "Zero Red 10ohm (Stock Narrow M)"
+        ],
+        "suffix": [
+          "(Velvet M)",
+          "(10ohm, Velvet M)",
+          "(10ohm, Spring L)",
+          "(10ohm, Stock Narrow M)"
+        ]
+      },
+      {
+        "name": "Zero:Blue2",
+        "collab": "Crinacle",
+        "file": ["Zero Blue 2 (Foam)", "Zero Blue 2 (5ohm, Foam)"],
+        "suffix": ["(Foam)", "(5ohm, Foam)"]
+      }
+    ]
+  },
+  {
+    "name": "YU9",
+    "phones": [
+      {
+        "name": "Que",
+        "file": [
+          "YU9 Que (Stock Clear M)",
+          "YU9 Que (Final E M)",
+          "YU9 Que (FX12 M)",
+          "YU9 Que (FX13 M)",
+          "YU9 Que (Velvet M)",
+          "YU9 Que (BGVP Foam)",
+          "YU9 Que (Azla Foamax)"
+        ],
+        "suffix": [
+          "Stock Clear",
+          "Final E",
+          "FX12",
+          "FX13",
+          "Velvet",
+          "BGVP Foam",
+          "Azla Foamax"
+        ]
+      }
+    ]
   }
 ]

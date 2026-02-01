@@ -56,7 +56,7 @@ export const EXTENSION_CONFIG = [
           type: "HSQ", freq: 500, q: 0.4 },
       ],
       // Targets that can be customized
-      CUSTOMIZABLE_TARGETS: [ "KEMAR DF (KB006x)", "ISO 11904-2 DF" ],
+      CUSTOMIZABLE_TARGETS: [ "KEMAR DF (KB006x)", "ISO 11904-2 DF", "∆ JM-1 for 711 - 10dB Tilt" ],
       // Filter Preset
       FILTER_PRESET: [
         { name: 'Harman 2013', filter: { bass: 6.6, treble: -1.4 }},
@@ -67,6 +67,7 @@ export const EXTENSION_CONFIG = [
       INITIAL_TARGET_FILTERS: [
         { name: "KEMAR DF (KB006x)", filter: { tilt: -0.8, bass: 6 }},
         { name: "ISO 11904-2 DF", filter: { tilt: -0.8, bass: 6 }},
+        { name: "∆ JM-1 for 711 - 10dB Tilt", filter: { tilt: .2, bass: 4 }},
       ]
     }
   },
@@ -79,7 +80,7 @@ export const EXTENSION_CONFIG = [
   {
     NAME: "preference-bound",
     DESCRIPTION: `preference bound overlay for modernGraphTool`,
-    ENABLED: true,
+    ENABLED: false,
     I18N_ENABLED: true,
     CONFIG: {
       // Preference Bound requires a file containing bound data.
@@ -101,7 +102,7 @@ export const EXTENSION_CONFIG = [
   {
     NAME: "squiglink-integration",
     DESCRIPTION: `squig.link integration for modernGraphTool`,
-    ENABLED: false,
+    ENABLED: true,
     CONFIG: {
       // Set these variables to your own GTM ID and site name
       ANALYTICS_SITE: "",       // Site name for attributing analytics events to your site

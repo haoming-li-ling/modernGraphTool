@@ -4,12 +4,13 @@
 const CONFIG = {
   // Phone & Targets to display on initial load.
   // Note that this will be overridden by URL if it's present.
-  INITIAL_PHONES: ["Demo Variations var2"],
-  INITIAL_TARGETS: ["KEMAR DF (KB006x)"],
+  INITIAL_PHONES: ["M-121i (BGVP Foam M)"],
+  INITIAL_TARGETS: ["∆ JM-1 for 711 - 10dB Tilt"],
   INITIAL_PANEL: "graph",                               // (phone, graph, misc)
   // Default Normalization Type and Value.
   NORMALIZATION: {
-    TYPE: "Hz",                                         // ("Hz" or "Avg" - 300~3000Hz Midrange Average Normalization)
+    // TYPE: "Hz",                                         // ("Hz" or "Avg" - 300~3000Hz Midrange Average Normalization)
+    TYPE: "Avg",                                         // ("Hz" or "Avg" - 300~3000Hz Midrange Average Normalization)
     HZ_VALUE: 500,                                      // This will be ignored if NORMALIZATION.TYPE is "Avg"
   },
   // Default Visualization Settings.
@@ -35,7 +36,8 @@ const CONFIG = {
   },
   // User Interface Settings
   INTERFACE: {
-    PREFERRED_DARK_MODE_THEME: "light",                 // ("light", "dark", "system")
+    // PREFERRED_DARK_MODE_THEME: "light",                 // ("light", "dark", "system")
+    PREFERRED_DARK_MODE_THEME: "system",                 // ("light", "dark", "system")
     ALLOW_REMOVING_PHONE_FROM_SELECTOR: true,           // Setting it to false will prevent user from removing phone from selector.
     SWITCH_PHONE_PANEL_ON_BRAND_CLICK: true,            // Switch to phone list when brand button is clicked (in mobile UI)
     TARGET: {
@@ -70,11 +72,11 @@ const CONFIG = {
       SIZE: "15px", FONT_FAMILY: "sans-serif", FONT_WEIGHT: "600", COLOR: "#000000", OPACITY: "0.4",
     },
     // You can even put multiple TEXT or IMAGE in Array. Randomly picked content will be rendered on every load.
-    { TYPE: "IMAGE", SIZE: "50px", LOCATION: "TOP_RIGHT", POSITION: {UP: "0", DOWN: "15", LEFT: "46", RIGHT: "0"}, OPACITY: "0.2",
-      CONTENT: [
-        "./assets/images/icon_1.png", "./assets/images/icon_2.png", "./assets/images/icon_3.png",
-      ] 
-    }
+    // { TYPE: "IMAGE", SIZE: "50px", LOCATION: "TOP_RIGHT", POSITION: {UP: "0", DOWN: "15", LEFT: "46", RIGHT: "0"}, OPACITY: "0.2",
+    //   CONTENT: [
+    //     "./assets/images/icon_1.png", "./assets/images/icon_2.png", "./assets/images/icon_3.png",
+    //   ] 
+    // }
   ],
   // Target configuration
   TARGET_MANIFEST: {
@@ -82,7 +84,7 @@ const CONFIG = {
     // You can configure target data in default(EN) language...
     default: [
       { type:"Harman",      files:["Harman IE 2019v2","Harman IE 2017v2"] },
-      { type:"Neutral",     files:["KEMAR DF (KB006x)","ISO 11904-2 DF","IEF Neutral 2023"] },
+      { type:"Neutral",     files:["∆ JM-1 for 711 - 10dB Tilt", "KEMAR DF (KB006x)","ISO 11904-2 DF","IEF Neutral 2023"] },
       { type:"Reviewer",    files:["Banbeucmas","HBB","Precogvision","Super 22 Adjusted"] },
       { type:"Preference",  files:["AutoEQ","Rtings","Sonarworks"] },
       { type:"Δ",           files:["Universal ∆"] }
@@ -103,7 +105,7 @@ const CONFIG = {
   // Graph Trace Styling
   TRACE_STYLING: {
     PHONE_TRACE_THICKNESS: 2,
-    TARGET_TRACE_THICKNESS: 1,
+    TARGET_TRACE_THICKNESS: 2,
     // For more information about 'stroke-dasharray' attribute, please refer to:
     // https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Attribute/stroke-dasharray
     // ... If you want to hide target graph trace, please set 'dash' to '0 1'.
@@ -115,7 +117,7 @@ const CONFIG = {
     TITLE: {
       //TYPE: "TEXT", CONTENT: "modernGraphTool",
       //TYPE: "IMAGE", CONTENT: "./assets/images/sample.jpg",
-      TYPE: "HTML", CONTENT: "<h2>modernGraphTool</h2>",
+      TYPE: "HTML", CONTENT: "<h2>Doltonius</h2>",
     },
     // 'LINK_LIST' also supports i18n like 'TARGET_MANIFEST'.
     // You MUST add 'http(s)://' to the URL Website PATH.
