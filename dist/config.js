@@ -25,7 +25,7 @@ const CONFIG = {
         UP: "0",
         DOWN: "0", // Fine-tune Label Location
       },
-      TEXT_SIZE: "20px",
+      TEXT_SIZE: "15px",
       TEXT_WEIGHT: "600", // (100 ~ 900)
     },
     BASELINE_LABEL: {
@@ -36,7 +36,7 @@ const CONFIG = {
         UP: "0",
         DOWN: "0",
       },
-      TEXT_SIZE: "15px",
+      TEXT_SIZE: "12px",
       TEXT_WEIGHT: "500", // (100 ~ 900)
     },
     RIG_DESCRIPTION: "Measured with IEC 60318-4 (711)", // Please don't leave this line empty, pretty please?
@@ -111,7 +111,7 @@ const CONFIG = {
       },
       {
         type: "Reviewer",
-        files: ["Banbeucmas", "HBB", "Precogvision", "Super 22 Adjusted"],
+        files: ["Super 22 Adjusted"],
       },
       { type: "Preference", files: ["AutoEQ", "Rtings", "Sonarworks"] },
       { type: "Δ", files: ["Universal ∆"] },

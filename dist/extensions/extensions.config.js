@@ -99,8 +99,8 @@ export const EXTENSION_CONFIG = [
       ],
       // Applies custom filter to the specified target on initial load
       INITIAL_TARGET_FILTERS: [
-        { name: "KEMAR DF (KB006x)", filter: { tilt: -0.8, bass: 6 } },
-        { name: "ISO 11904-2 DF", filter: { tilt: -0.8, bass: 6 } },
+        { name: "KEMAR DF (KB006x)", filter: { tilt: -0.8, bass: 4 } },
+        { name: "ISO 11904-2 DF", filter: { tilt: -0.8, bass: 4 } },
         { name: "∆ JM-1 for 711", filter: { tilt: -0.8, bass: 4 } },
       ],
     },
