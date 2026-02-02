@@ -6,7 +6,7 @@
         "name": "Zero:2",
         "collab": "Crinacle",
         "file": ["Zero 2 (Stock M)"],
-        "suffix": ["(Stock M)"]
+        "suffix": ["(Stock)"]
       }
     ]
   },
@@ -20,16 +20,16 @@
           "N5005 (Reference, Azla Foamax)",
           "N5005 (Mid-high, Azla Foamax)",
           "N5005 (Reference, Foam)",
-          "N5005 (Reference, H570 M)",
-          "N5005 (Reference, Stock M)"
+          "N5005 (Reference, H570)",
+          "N5005 (Reference, Stock)"
         ],
         "suffix": [
           "(Bass, Azla Foamax)",
           "(Reference, Azla Foamax)",
           "(Mid-high, Azla Foamax)",
           "(Reference, Foam)",
-          "(Reference, H570 M)",
-          "(Reference, Stock M)"
+          "(Reference, H570)",
+          "(Reference, Stock)"
         ]
       }
     ]
@@ -40,7 +40,7 @@
       {
         "name": "Airpods Pro 2",
         "file": ["Airpods Pro 2 (Stock M)", "Airpods Pro 2 (Dekoni M)"],
-        "suffix": ["(Stock M)", "(Dekoni M)"]
+        "suffix": ["(Stock)", "(Dekoni)"]
       }
     ]
   },
@@ -50,7 +50,7 @@
       {
         "name": "T10",
         "file": ["T10 (Stock M)"],
-        "suffix": ["(Stock M)"]
+        "suffix": ["(Stock)"]
       },
       {
         "name": "R6",
@@ -59,7 +59,7 @@
           "R6 (Stock M Shallow)",
           "R6 (Stock M Deep)"
         ],
-        "suffix": ["(Azla Foamax M)", "(Stock M Shallow)", "(Stock M Deep)"]
+        "suffix": ["(Azla Foamax)", "(Stock Shallow)", "(Stock Deep)"]
       }
     ]
   },
@@ -69,7 +69,7 @@
       {
         "name": "iSine 10",
         "file": ["iSine 10 (Stock M)"],
-        "suffix": ["(Stock M)"]
+        "suffix": ["(Stock)"]
       }
     ]
   },
@@ -90,13 +90,13 @@
           "Chopin (Spinfit M)"
         ],
         "suffix": [
-          "(Spiral Dots M)",
-          "(Stock M)",
-          "(Sancai M)",
-          "(Velvet M)",
-          "(Velvet Wide M)",
+          "(Spiral Dots)",
+          "(Stock)",
+          "(Sancai)",
+          "(Velvet)",
+          "(Velvet Wide)",
           "(Foam)",
-          "(Spinfit M)"
+          "(Spinfit)"
         ]
       }
     ]
@@ -121,12 +121,12 @@
           "(Azla Foamax)",
           "(Flo Foam)",
           "(BGVP Foam)",
-          "(Foam M)",
-          "(Stock M)",
+          "(Foam)",
+          "(Stock)",
           "(Stock L Shall)",
-          "(H570 M)",
+          "(H570)",
           "(Spring L)",
-          "(Final E M)"
+          "(Final E)"
         ]
       }
     ]
@@ -157,23 +157,23 @@
           "DaVinci (10ohm, Final E M)"
         ],
         "suffix": [
-          "(Candy M)",
-          "(Stock M)",
+          "(Candy)",
+          "(Stock)",
           "(S&S L)",
-          "(Velvet M)",
-          "(Spring M)",
-          "(Final E M)",
-          "(Final E ML)",
-          "(Velvet Wide M)",
-          "(Tape, Velvet M)",
-          "(Spring L)",
-          "(Spiral Dots M)",
-          "(Spinfit N5005 M)",
-          "(Spinfit M)",
-          "(H570 M)",
-          "(Foam M)",
-          "(Black N5005 M)",
-          "(10ohm, Final E M)"
+          "(Velvet)",
+          "(Spring)",
+          "(Final E)",
+          "(Final E L)",
+          "(Velvet Wide)",
+          "(Tape, Velvet)",
+          "(Spring)",
+          "(Spiral Dots)",
+          "(Spinfit N5005)",
+          "(Spinfit)",
+          "(H570)",
+          "(Foam)",
+          "(Black N5005)",
+          "(10ohm, Final E)"
         ],
         "reviewScore": "",
         "reviewLink": "",
@@ -188,7 +188,8 @@
     "phones": [
       {
         "name": "E500",
-        "file": ["E500 (Final E M)"]
+        "file": ["E500 (Final E M)"],
+        "suffix": ["(Final E)"]
       }
     ]
   },
@@ -218,18 +219,18 @@
           "(5ohm, Sancai)",
           "(5ohm, Foam)",
           "(5ohm Azla Foam)",
-          "(5ohm, Final E M)",
+          "(5ohm, Final E)",
           "(Beige Foam)",
-          "(Stock M)",
-          "(Stock Foam M)",
-          "(BGVP Foam M)",
+          "(Stock)",
+          "(Stock Foam)",
+          "(BGVP Foam)",
           "(Azla Foamax)",
-          "(H570 M)",
-          "(Spinfit W1 M)",
-          "(Velvet M)",
-          "(10ohm, Stock M)",
-          "(10ohm, Stock M) S2",
-          "(10ohm AVG, Stock M)"
+          "(H570)",
+          "(Spinfit W1)",
+          "(Velvet)",
+          "(10ohm, Stock)",
+          "(10ohm, Stock) S2",
+          "(10ohm AVG, Stock)"
         ]
       }
     ]
@@ -255,13 +256,13 @@
           "Defiant (Flo Foam)"
         ],
         "suffix": [
-          "(Stock White M)",
-          "(Stock Gray M)",
+          "(Stock White)",
+          "(Stock Gray)",
           "(Stock Foam)",
           "(BGVP Foam)",
-          "(Velvet M)",
-          "(Velvet Wide M)",
-          "(Final E M)",
+          "(Velvet)",
+          "(Velvet Wide)",
+          "(Final E)",
           "(Flo Foam)"
         ]
       }
@@ -277,7 +278,7 @@
           "Wyvern Qing (Velvet M)",
           "Wyvern Qing (Final E M)"
         ],
-        "suffix": ["(Stock M)", "(Velvet M)", "(Final E M)"]
+        "suffix": ["(Stock)", "(Velvet)", "(Final E)"]
       }
     ]
   },
@@ -303,15 +304,15 @@
           "Castor Pro Bass (UUUU Stock M)"
         ],
         "suffix": [
-          "(UDDD Stock M)",
+          "(UDDD Stock)",
           "(UDDD Foam)",
-          "(UDDD W1 M)",
-          "(DDUD Mystori Stock Wide M)",
-          "(DDUU Mystori Stock Wide M)",
-          "(UDDD Mystori Stock Wide M)",
-          "(UUDD Mystori Stock Wide M)",
-          "(UUUU Mystori Stock Wide M)",
-          "(UUUU Stock M)"
+          "(UDDD W1)",
+          "(DDUDystori Stock Wide)",
+          "(DDUUystori Stock Wide)",
+          "(UDDDystori Stock Wide)",
+          "(UUDDystori Stock Wide)",
+          "(UUUUystori Stock Wide)",
+          "(UUUU Stock)"
         ]
       },
       {
@@ -342,17 +343,17 @@
         "name": "Blessing 2 Dusk",
         "collab": "Crinacle",
         "file": ["Blessing 2 Dusk (Stock M)"],
-        "suffix": ["(Stock M)"]
+        "suffix": ["(Stock)"]
       },
       {
         "name": "Quark 2",
         "file": ["Quark 2 (Stock M)"],
-        "suffix": ["(Stock M)"]
+        "suffix": ["(Stock)"]
       },
       {
         "name": "Kato",
         "file": ["Kato (Steel, Spring L)", "Kato (AET07 M)"],
-        "suffix": ["(Steel, Spring L)", "(AET07 M)"]
+        "suffix": ["(Steel, Spring L)", "(AET07)"]
       }
     ]
   },
@@ -383,19 +384,19 @@
           "M-121i (Hu-Fi)"
         ],
         "suffix": [
-          "(BGVP Foam M)",
+          "(BGVP Foam)",
           "(Azla Foamax)",
-          "(Stock Wide M)",
-          "(Stock Narrow M)",
-          "(10ohm, BGVP Foam M)",
-          "(Spinfit W1 M)",
-          "(Spinfit W1 MS)",
-          "(Spiral Dots M)",
-          "(Velvet M)",
-          "(Velvet Wide M)",
-          "(H570 M)",
-          "(Final E M)",
-          "(Final E M Shallow)",
+          "(Stock Wide)",
+          "(Stock Narrow)",
+          "(10ohm, BGVP Foam)",
+          "(Spinfit W1)",
+          "(Spinfit W1S)",
+          "(Spiral Dots)",
+          "(Velvet)",
+          "(Velvet Wide)",
+          "(H570)",
+          "(Final E)",
+          "(Final E Shallow)",
           "(Beige Foam)",
           "(Floaudio Foam)",
           "(Official)",
@@ -412,7 +413,7 @@
       {
         "name": "Planet",
         "file": ["Planet (Stock M)"],
-        "suffix": ["(Stock M)"]
+        "suffix": ["(Stock)"]
       }
     ]
   },
@@ -432,7 +433,7 @@
       {
         "name": "Spring",
         "file": ["Reecho Spring (Stock M)"],
-        "suffix": ["(Stock M)"]
+        "suffix": ["(Stock)"]
       }
     ]
   },
@@ -446,7 +447,7 @@
           "EA500LM (BGVP Foam M)",
           "EA500LM (Final E M)"
         ],
-        "suffix": ["(Stock M)", "(BGVP Foam M)", "(Final E M)"]
+        "suffix": ["(Stock)", "(BGVP Foam)", "(Final E)"]
       }
     ]
   },
@@ -463,11 +464,11 @@
           "N3 (Velvet Wide M)"
         ],
         "suffix": [
-          "(Stock M)",
-          "(Final E M)",
-          "(H570 M)",
-          "(Velvet M)",
-          "(Velvet Wide M)"
+          "(Stock)",
+          "(Final E)",
+          "(H570)",
+          "(Velvet)",
+          "(Velvet Wide)"
         ]
       }
     ]
@@ -494,18 +495,18 @@
         ],
         "suffix": [
           "(Azla Foamax)",
-          "(Stock M)",
-          "(BGVP Foam M)",
-          "(Final E M)",
+          "(Stock)",
+          "(BGVP Foam)",
+          "(Final E)",
           "(Spinfit MS)",
-          "(Spinfit M)",
-          "(H570 M)",
-          "(Sancai M)",
+          "(Spinfit)",
+          "(H570)",
+          "(Sancai)",
           "(Spring L)",
-          "(Spring M)",
-          "(Velvet M)",
-          "(Velvet Wide M)",
-          "(S&S M)"
+          "(Spring)",
+          "(Velvet)",
+          "(Velvet Wide)",
+          "(S&S)"
         ],
         "reviewScore": "",
         "reviewLink": "",
@@ -530,12 +531,7 @@
           "Hexa (Black Foam)",
           "Hexa (Beige Foam)"
         ],
-        "suffix": [
-          "(Velvet Wide M)",
-          "(Stock M)",
-          "(Black Foam)",
-          "(Beige Foam)"
-        ]
+        "suffix": ["(Velvet Wide)", "(Stock)", "(Black Foam)", "(Beige Foam)"]
       },
       {
         "name": "Nova",
@@ -552,10 +548,10 @@
           "Zero Red 10ohm (Stock Narrow M)"
         ],
         "suffix": [
-          "(Velvet M)",
-          "(10ohm, Velvet M)",
+          "(Velvet)",
+          "(10ohm, Velvet)",
           "(10ohm, Spring L)",
-          "(10ohm, Stock Narrow M)"
+          "(10ohm, Stock Narrow)"
         ]
       },
       {
@@ -581,13 +577,13 @@
           "YU9 Que (Azla Foamax)"
         ],
         "suffix": [
-          "Stock Clear",
-          "Final E",
-          "FX12",
-          "FX13",
-          "Velvet",
-          "BGVP Foam",
-          "Azla Foamax"
+          "(Stock Clear)",
+          "(Final E)",
+          "(FX12)",
+          "(FX13)",
+          "(Velvet)",
+          "(BGVP Foam)",
+          "(Azla Foamax)"
         ]
       }
     ]
