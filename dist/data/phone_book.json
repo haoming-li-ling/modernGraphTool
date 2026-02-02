@@ -539,6 +539,39 @@
         "suffix": ["(Stock M)", "(Foam)"]
       },
       {
+        "name": "Pure",
+        "file": [
+          "Pure (Velvet)",
+          "Pure (Stock Foam)",
+          "Pure (Stock Narrow Deep)",
+          "Pure (Stock Narrow Mid)",
+          "Pure (Stock Wide Mid)",
+          "Pure (Stock Wide)",
+          "Pure (Azla Foamax)",
+          "Pure (BGVP Foam)",
+          "Pure (Final E)",
+          "Pure (Flo Foam)",
+          "Pure (H570)",
+          "Pure (Sancai Narrow)",
+          "Pure (Sancai)"
+        ],
+        "suffix": [
+          "(Velvet)",
+          "(Stock Foam)",
+          "(Stock Narrow Deep)",
+          "(Stock Narrow Mid)",
+          "(Stock Wide Mid)",
+          "(Stock Wide)",
+          "(Azla Foamax)",
+          "(BGVP Foam)",
+          "(Final E)",
+          "(Flo Foam)",
+          "(H570)",
+          "(Sancai Narrow)",
+          "(Sancai)"
+        ]
+      },
+      {
         "name": "Zero:Red",
         "collab": "Crinacle",
         "file": [
